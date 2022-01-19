@@ -65,6 +65,7 @@ namespace BossRoom.Scripts.Shared.Net.NetworkObjectPool
         /// <summary>
         /// Gets an instance of the given prefab from the pool. The prefab must be registered to the pool.
         /// </summary>
+        // </summary> resumen </summary>
         /// <param name="prefab"></param>
         /// <returns></returns>
         public NetworkObject GetNetworkObject(GameObject prefab)
